@@ -1,1 +1,1 @@
-# Restaurant-landing-page-React
+# restaurant-landing-page-react
