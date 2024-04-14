@@ -45,7 +45,24 @@ const Navbar = () => {
     ]
 
   return (
-    <div>Navbar</div>
+    <nav>
+        <div className='nav-logo-container'>
+            <img src={Logo} alt="" />
+        </div>
+        <div className='navbar-links-container'>
+            <a href="">Home</a>
+            <a href="">About</a>
+            <a href="">Textimonials</a>
+            <a href="">Contact</a>
+            <a href="">
+                <BsCart2 className='navbar-cart-icon'/>
+            </a>
+            <button className='primary-button'>Bookings Now</button>
+        </div>
+        <div className='navbar-menu-container'>
+            <HiOutlineBars3 onClick={() => setOpenMenu(true)}/>
+        </div>
+    </nav>
   )
 }
 
