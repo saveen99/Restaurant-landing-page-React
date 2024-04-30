@@ -2,7 +2,7 @@
 
 ## ScreenShots
 
-<p align="center" ><img  src = "screenshots/001.png?raw=true" width = 1000px></p>
+<p align="center" ><img  src = "screenshots/001new.png?raw=true" width = 1000px></p>
 
 
 
