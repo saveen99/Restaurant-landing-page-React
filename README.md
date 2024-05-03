@@ -1,6 +1,6 @@
 # Restaurant Landing Page
 
-## ScreenShots
+## Screenshots
 
 <p align="center" ><img  src = "screenshots/001new.png?raw=true" width = 1000px></p>
 
