@@ -21,7 +21,6 @@
 <p align="center" ><img  src = "screenshots/005.png?raw=true" width = 1000px></p>
 
 ---
----
 
 ## Available Scripts
 
